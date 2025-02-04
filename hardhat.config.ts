@@ -16,7 +16,7 @@ const config: HardhatUserConfig = {
     },
   },
   etherscan: {
-    apiKey: env.ETHERSCAN_KEY,
+    apiKey: env.ETHERSCAN_API_KEY,
   },
 };
 
